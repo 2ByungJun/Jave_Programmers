@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.13
+### update : 2020.04.15
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -13,3 +13,7 @@ Velog Link : https://velog.io/@ieed0205
 
                             - 완주하지 못한 선수
                             - 모의고사
+* [2020.04.15] Naver_news Crawling
+
+                            - 제목, 내용, 작성자 크롤링
+                            - 이미지 저장_upload 미구현
