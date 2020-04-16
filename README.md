@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.15
+### update : 2020.04.16
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -17,3 +17,6 @@ Velog Link : https://velog.io/@ieed0205
 
                             - 제목, 내용, 작성자 크롤링
                             - 이미지 저장_upload 미구현
+  [2020.04.16] Naver_news Crawling
+                            - 네이버 경제일반 뉴스 크롤링(date, page)
+                            - 이미지 url 저장 기능 추가
