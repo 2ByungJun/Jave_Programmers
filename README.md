@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.16
+### update : 2020.04.17
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -13,10 +13,15 @@ Velog Link : https://velog.io/@ieed0205
 
                             - 완주하지 못한 선수
                             - 모의고사
-* [2020.04.15] Naver_news Crawling
-
+* [2020.04.15~16] Naver_news Crawling
+                            
+                            > 15
                             - 제목, 내용, 작성자 크롤링
                             - 이미지 저장_upload 미구현
-  [2020.04.16] Naver_news Crawling
+                            > 16
                             - 네이버 경제일반 뉴스 크롤링(date, page)
                             - 이미지 url 저장 기능 추가
+* [2020.04.17] ExcelLoadTest
+
+                            - Excel(.xlsx) 데이터 읽어와 순위 설정
+                            - map, sort, list ...
