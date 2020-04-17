@@ -25,3 +25,4 @@ Velog Link : https://velog.io/@ieed0205
 
                             - Excel(.xlsx) 데이터 읽어와 순위 설정
                             - map, sort, list ...
+                            - (추가) 동점자 처리

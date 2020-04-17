@@ -82,10 +82,20 @@ public class ExcelLoadTest {
 			Iterator it = sortByValue(map).iterator();
 
 			// 출력
-			int i = 0;
+			int i=0;
+			int num = 0;
+			String temp = "";
 			while (it.hasNext()) {
-				String temp = (String) it.next();
-				System.out.println("팀 = " + temp + ", 승점 = " + map.get(temp) + ", 순위 = " + ++i);
+				temp = (String) it.next();
+				
+				// 동점자에 대한 처리
+				if( num == map.get(temp) ) {
+					System.out.println("팀 = " + temp + ", 승점 = " + map.get(temp) + ", 순위 = " + i++ + "(공동)");
+				}
+				else {
+					System.out.println("팀 = " + temp + ", 승점 = " + map.get(temp) + ", 순위 = " + ++i);
+					num = map.get(temp);
+				}
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -99,6 +109,7 @@ public class ExcelLoadTest {
 
 		list.addAll(map.keySet());
 		Collections.sort(list, new Comparator<Object>() {
+			@SuppressWarnings("unchecked")
 			public int compare(Object o1, Object o2) {
 				Object v1 = map.get(o1);
 				Object v2 = map.get(o2);
