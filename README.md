@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.17
+### update : 2020.04.18
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -26,3 +26,8 @@ Velog Link : https://velog.io/@ieed0205
                             - Excel(.xlsx) 데이터 읽어와 순위 설정
                             - map, sort, list ...
                             - (추가) 동점자 처리
+
+* [2020.04.18] Extends_Bank
+
+                            - 객체 지향 계좌관리 프로그램
+                            - 상속을 이용
