@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.18
+### update : 2020.04.19
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -27,7 +27,10 @@ Velog Link : https://velog.io/@ieed0205
                             - map, sort, list ...
                             - (추가) 동점자 처리
 
-* [2020.04.18] Extends_Bank
+* [2020.04.18~19] Extends_Bank
 
+                            > 18
                             - 객체 지향 계좌관리 프로그램
                             - 상속을 이용
+                            > 19
+                            - CreateAccount.java 수정(Randomname method)
