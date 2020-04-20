@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.19
+### update : 2020.04.20
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -34,3 +34,9 @@ Velog Link : https://velog.io/@ieed0205
                             - 상속을 이용
                             > 19
                             - CreateAccount.java 수정(Randomname method)
+
+* [2020.04.20] Programmers - level2 (2), level3 (1)
+
+                            - 큰 수 찾기
+                            - 2020카카오 문자열 압축
+                            - 하노이탑
