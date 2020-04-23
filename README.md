@@ -1,5 +1,5 @@
 ## Java Study
-### update : 2020.04.21
+### update : 2020.04.23
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -15,10 +15,10 @@ Velog Link : https://velog.io/@ieed0205
                             - 모의고사
 * [2020.04.15~16] Naver_news Crawling
                             
-                            > 15
+                            > .15
                             - 제목, 내용, 작성자 크롤링
                             - 이미지 저장_upload 미구현
-                            > 16
+                            > .16
                             - 네이버 경제일반 뉴스 크롤링(date, page)
                             - 이미지 url 저장 기능 추가
 * [2020.04.17] ExcelLoadTest
@@ -29,10 +29,10 @@ Velog Link : https://velog.io/@ieed0205
 
 * [2020.04.18~19] Extends_Bank
 
-                            > 18
+                            > .18
                             - 객체 지향 계좌관리 프로그램
-                            - 상속을 이용
-                            > 19
+                            - 상속 이용
+                            > .19
                             - CreateAccount.java 수정(Randomname method)
 
 * [2020.04.20] Programmers - level2 (2), level3 (1)
@@ -40,3 +40,8 @@ Velog Link : https://velog.io/@ieed0205
                             - 큰 수 찾기
                             - 2020카카오 문자열 압축
                             - 하노이탑
+
+* [2020.04.23] Extends_Book
+
+                            - 객체 지향 책 관리 프로그램
+                            - 상속 이용
